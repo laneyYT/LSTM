@@ -1,5 +1,11 @@
-# LSTM
-Deep learning
+# LSTM:　Deep learning
+
+## What is Deep Learning?
+
+Think of deep learning as a method that allows computers to learn from data, just like we humans do. Imagine this: when you see sales numbers, stock prices, or customer trends over time, your brain naturally spots patterns. Maybe you notice that sales spike every December or that the stock market drops after certain news events.
+
+Deep learning does something similar — but faster and on a much bigger scale. It uses a tool called a Neural Network, which mimics the way our brain processes information. This is why deep learning has become a game-changer for predicting things like sales, stock prices, and customer behaviors.
+
 ## Why Should Business Students Care?
 As business students, you’re going to face decisions based on uncertain futures:
 
